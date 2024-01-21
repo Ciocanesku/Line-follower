@@ -13,6 +13,21 @@
 <h2><strong>Design</strong></h2>
 <p>For the design, we started with recreating the 3d printed model that we have used in the laboratory, by cutting the exact same size and form on the white cardboard. In the back, we have attached the wheels with cable ties and some extra pieces of cardboard, and in the front, we have the reflectance sensor, fixed with 2 screws. We fixed the breadboard with duct tape and the arduino was supported by 2 more pieces of cardboard and 2 cable ties.</p>
 
+<p>
+    <strong>Components Used:</strong>
+    <ul>
+      <li>Arduino Uno</li>
+      <li>Zip-ties</li>
+      <li>Lipo battery</li>
+      <li>Wheels(2)</li>
+      <li>Wires for line sensor</li>
+      <li>QTR-8A reflectance sensor, along with screws</li>
+      <li>Ball caster</li>
+      <li>Breadbord mini</li>
+      <li>L293D motor driver</li>
+      <li>DC motors (2)</li>
+    </ul>
+  </p>
 <details>
       <summary><h2><strong>Electronic setup</strong></h2></summary>
       <h3>Motors and sensor connection</h3>
