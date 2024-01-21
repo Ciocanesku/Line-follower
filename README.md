@@ -19,14 +19,14 @@
       <li>Arduino Uno</li>
       <li>Zip-ties</li>
       <li>Lipo battery</li>
-      <li>Wheels(2)</li>
+      <li>Wheels (2)</li>
       <li>Wires for line sensor</li>
       <li>QTR-8A reflectance sensor, along with screws</li>
       <li>Ball caster</li>
       <li>Breadbord mini</li>
       <li>L293D motor driver</li>
-      <li>DC motors(2)</li>
-      <li>Chassis(Self-made from cardboard)</li>
+      <li>DC motors (2)</li>
+      <li>Chassis (Self-made from cardboard)</li>
     </ul>
   </p>
 <details>
