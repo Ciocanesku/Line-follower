@@ -25,7 +25,8 @@
       <li>Ball caster</li>
       <li>Breadbord mini</li>
       <li>L293D motor driver</li>
-      <li>DC motors (2)</li>
+      <li>DC motors(2)</li>
+      <li>Chassis(Self-made from cardboard)</li>
     </ul>
   </p>
 <details>
