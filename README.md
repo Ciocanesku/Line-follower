@@ -1,5 +1,5 @@
 # Line follower
-<p><strong>Task:</strong> Create a line follower that tries to track a line as accurately as possible and manages to complete the final circuit in under 20 seconds for the maximum grade<p>
+<p><strong>Task:</strong> Create a line follower that tries to track a line as accurately as possible and manages to complete the final circuit in under 20 seconds for the maximum grade.<p>
 <p>Team: Grup infractional</p>
 <p>Members:
 <ul>
