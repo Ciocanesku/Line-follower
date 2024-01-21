@@ -1,5 +1,5 @@
 # Line follower
-<p>Team:Grup infractional</p>
+<p>Team: Grup infractional</p>
 <p>Members:
 <ul>
       <li>Caruntu Razvan</li>
