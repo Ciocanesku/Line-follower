@@ -1,7 +1,6 @@
 # Line follower
-
-<p>Team:Grup infractional
-Members:
+<p>Team:Grup infractional</p>
+<p>Members:
 <ul>
       <li>Caruntu Razvan</li>
       <li>Ciocan Madalin</li>
