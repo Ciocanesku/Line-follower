@@ -1,4 +1,4 @@
-# Line follower big up
+# Line follower 
 <p><strong>Task:</strong> Create a line follower that tries to track a line as accurately as possible and manages to complete the final circuit in under 20 seconds for the maximum grade. Each robot has 3 available attempts to achieve the best time. Manual calibration of the robot is not allowed and the robot must start from a fixed position.<p>
 <p>Team: Grup infractional</p>
 <p>Members:
